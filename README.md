@@ -17,7 +17,12 @@ Then, open in browser: <br>
 http://localhost:8000/
 
 <br><br>
+Screenshorts - Examples
+<br>
 ![alt text](img/example-1.png?raw=true)
 <br><br>
+Dark mode
+<br>
+![alt text](img/example-2.png?raw=true)
 
 <br><br>
