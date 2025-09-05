@@ -7,7 +7,7 @@ Use with ollama pre-installed with any supported model with ollama.
 Please download and install Ollama before using this tool:
 https://ollama.com/
 <br>
-The tool is writen in java and works in Windows, Linux and macOS.
+This tool is writen in java and works in Windows, Linux and macOS.
 <br>
 
 Run OllamaStudio: <br>
