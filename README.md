@@ -15,3 +15,6 @@ java -jar OllamaStudio-1.0.jar
 
 Then, open in browser: <br>
 http://localhost:8000/
+
+
+
