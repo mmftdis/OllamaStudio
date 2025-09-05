@@ -1,11 +1,12 @@
 # OllamaStudio
-Ollama Studio Tool Research
+Ollama Studio - Research Tool
+<br><br>
 
 Use with ollama pre-installed with any supported model with ollama.
-
+<br>
 Please download and install Ollama before using this tool:
 https://ollama.com/
-
+<br>
 The tool is writen in java and works in Windows, Linux and macOS.
 <br>
 
