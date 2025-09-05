@@ -20,6 +20,4 @@ http://localhost:8000/
 ![alt text](img/example-1.png?raw=true)
 <br><br>
 
-<img style="width:70%" src="https://github.com/mmftdis/OllamaStudio/tree/main/img/example-1.png"/>
-![screenshot](imageFolder/img/example-1.png)
 <br><br>
