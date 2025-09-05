@@ -18,7 +18,7 @@ http://localhost:8000/
 
 <br><br>
 Screenshorts - Examples
-<br>
+<br><br>
 ![alt text](img/example-1.png?raw=true)
 <br><br>
 Dark mode
