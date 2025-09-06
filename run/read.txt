@@ -1,0 +1,3 @@
+
+
+put OllamaStudio jar-file in the same directory as run.bat or run.sh files.
