@@ -7,6 +7,9 @@ Use with ollama pre-installed with any supported model with ollama.
 Please download and install Ollama before using this tool:
 https://ollama.com/
 <br>
+Then, pull/install models:
+https://ollama.com/library
+<br>
 This tool is writen in java and works in Windows, Linux and macOS.
 <br>
 
