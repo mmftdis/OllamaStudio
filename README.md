@@ -14,18 +14,24 @@ https://ollama.com/library
 <br><br>
 This tool is writen in java and works in Windows, Linux and macOS.
 <br><br>
+Verify JDK or OpenJDK in installed:
+<br> https://openjdk.org/
+<br><br>
 
-Run OllamaStudio: <br>
-java -jar OllamaStudio-1.0.jar
-<br><br>
-or
-<br><br>
-Windows: run.bat
+Run OllamaStudio (many options): 
+<br> 1) java -jar OllamaStudio-1.0.jar
+<br> 2) Windows: run.bat
+<br> 3) Linux: run.sh
+<br>- verify jar-file in the same folder as run.bat or run.sh
+
 <br>
-Linux: run.sh
-<br><br>
 Then, open in browser: <br>
 http://localhost:8000/
+<br><br>
+Note on popup alert-message in windows: 
+<br>
+- allow to open port 8000 in windows-firewall for localhost
+<br><br>
 
 <br><br>
 Screenshorts - Examples
