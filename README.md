@@ -17,7 +17,13 @@ This tool is writen in java and works in Windows, Linux and macOS.
 
 Run OllamaStudio: <br>
 java -jar OllamaStudio-1.0.jar
-
+<br><br>
+or
+<br><br>
+Windows: run.bat
+<br>
+Linux: run.sh
+<br><br>
 Then, open in browser: <br>
 http://localhost:8000/
 
