@@ -1,4 +1,4 @@
-# OllamaStudio
+# Ollama Studio
 Ollama Studio - Research Tool
 <br><br>
 
