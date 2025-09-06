@@ -43,3 +43,30 @@ Dark mode
 ![alt text](img/example-2.png?raw=true)
 
 <br><br>
+
+UI Options
+<br>----------
+<br><br>Top-Bar
+
+<br><br>Chat Command
+<br>![alt text](img/top/top-1.png?raw=true)
+<br>![alt text](img/top/top-1a.png?raw=true)
+
+<br><br>Increase/Decrease Panels (input and output)
+
+<br><br>Increase/Decrease Font-Size 
+<br>![alt text](img/top/top-2.png?raw=true)
+<br>![alt text](img/top/top-2a.png?raw=true)
+
+<br><br>Theme (Light Mode,Dark Mode) 
+<br>![alt text](img/top/top-3.png?raw=true)
+<br>![alt text](img/top/top-3a.png?raw=true)
+
+<br><br>Dark-Mode Variations  
+<br>![alt text](img/top/top-4.png?raw=true)
+<br>![alt text](img/top/top-4a.png?raw=true)
+
+<br><br>Reset: reset output (LLM response) on freeze
+
+
+
