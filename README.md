@@ -33,6 +33,11 @@ Note on popup alert-message in windows:
 - allow to open port 8000 in windows-firewall for localhost
 <br><br>
 
+Supported Ollama-Models in OllamaStudio 
+<br>(list is updated in each OllamaStudio-release)
+<br>- available in "supported-models.txt" file
+<br> ** Almost all the LLM models in OllamaStudio list are able to run on 8GB-GPU 
+
 <br><br>
 Screenshorts - Examples
 <br><br>
@@ -75,7 +80,6 @@ UI Options
 
 <br><br>== Bottom-Bar ==
 <br>1) General/Model Options
-<br> ** Almost all the LLM models in the list able to run on 8GB-GPU 
 <br>2) Session Control: Chat with/without context (memory between chats) 
 <br>3) Stream Control: Chat output stream of token-by-token or final answer rewsponse
 <br>4) Text Direction: Left-To-Right or Right-To-Left
@@ -101,10 +105,7 @@ UI Options
 
 <br><br>
 
-Supported Ollama-Models in OllamaStudio 
-<br>(list is updated in each OllamaStudio-release)
-<br>are available in "supported-models.txt" file
-<br><br>
+
 
 
 
