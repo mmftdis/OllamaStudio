@@ -43,7 +43,11 @@ Dark mode
 ![alt text](img/example-2.png?raw=true)
 
 <br><br>
+Suggested Hardware:
+<br> GPU 8GB or higher
+<br> Fast NVMe
 
+<br><br>
 UI Options
 <br>----------
 <br><br>== Top-Bar ==
@@ -71,6 +75,7 @@ UI Options
 
 <br><br>== Bottom-Bar ==
 <br>1) General/Model Options
+<br> ** Almost all the LLM models in the list able to run on 8GB-GPU 
 <br>2) Session Control: Chat with/without context (memory between chats) 
 <br>3) Stream Control: Chat output stream of token-by-token or final answer rewsponse
 <br>4) Text Direction: Left-To-Right or Right-To-Left
@@ -95,7 +100,13 @@ UI Options
 <br>![alt text](img/bottom/bt-4a.png?raw=true)
 
 <br><br>
+
+Supported Ollama-Models in OllamaStudio 
+<br>(list is updated in each OllamaStudio-release)
+<br>are available in "supported-models.txt" file
 <br><br>
+
+
 
 
 
