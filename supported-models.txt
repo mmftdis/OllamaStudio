@@ -1,0 +1,65 @@
+
+
+
+---------------------------------
+SUGGESTED MODELS FOR OllamaStudio
+---------------------------------
+
+
+>> ollama list
+
+
+NAME
+----                          
+gemma3n:e4b                   
+llama3.2-vision:latest        
+qwen2.5vl:latest              
+mxbai-embed-large:latest      
+phi4-mini-reasoning:latest    
+qwen3:latest                  
+openhermes:latest             
+granite3.3:latest             
+cogito:latest                 
+granite-embedding:278m        
+nomic-embed-text:latest       
+smollm2:135m-instruct-q8_0    
+smollm2:135m                  
+exaone-deep:2.4b              
+exaone-deep:latest            
+gemma3:1b                     
+gemma3:latest                 
+gemma3:12b                    
+phi4-mini:latest              
+granite3.2:latest             
+dolphin-llama3:latest         
+deepseek-r1:1.5b              
+deepseek-r1:8b                
+llama3.2:1b                   
+phi4:latest                   
+llama3.2:latest               
+gemma2:latest                 
+phi3.5:latest                 
+llama3.1:latest               
+mistral-nemo:latest           
+phi3:latest                   
+llama3:latest                 
+mistral:latest                
+tinyllama:latest              
+
+
+update a model
+--------------
+>> ollama pull <model-name>
+
+ex.
+>> ollama pull llama3
+>> ollama pull phi3
+
+
+remove a model
+--------------
+>> ollama rm <model-name>
+
+ex.
+>> ollama rm deepseek-r1:latest
+
