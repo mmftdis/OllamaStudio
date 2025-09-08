@@ -2,32 +2,29 @@
 Ollama Studio - Research Tool
 <br><br>
 
-Use with ollama pre-installed with any supported model with Ollama-Studio.
+<pre>
+Requirements:
+1. Install Ollama if not installed: https://ollama.com/
+2. Install Java (min. JDK8) if not installed: https://openjdk.org/
+
+Run Ollama Studio:
+1. Download and extract latest release tool-zip
+2. Run shell-file (.bat or .sh) according your OS.
+
+Ollama Models:
+1. Check prefered model from the model-list in Ollama Studio (bottom-left drop-down-list)
+2. If model not install then pull it from: https://ollama.com/library
+3. Verify suggested models do download in file: supported-models.txt
+</pre>
+
 <br><br>
-Please download and install Ollama before using this tool:
-<br>
-https://ollama.com/
-<br><br>
-Then, pull/install models:
-<br>
-https://ollama.com/library
-<br><br>
-This tool is writen in java and works in Windows, Linux and macOS.
-<br><br>
-Verify JDK or OpenJDK in installed:
-<br> https://openjdk.org/
+OllamaStudio is writen in pure java and works in Windows, Linux and macOS.
 <br><br>
 
-Run OllamaStudio (many options): 
-<br> 1) java -jar OllamaStudio-1.0.jar
-<br> 2) Windows: run.bat
-<br> 3) Linux: run.sh
-<br>- verify jar-file in the same folder as run.bat or run.sh
-
 <br>
-Then, open in browser: <br>
-http://localhost:8000/
+If not loaded automatically in browser, then open: http://localhost:8000/
 <br><br>
+
 Note on popup alert-message in windows: 
 <br>
 - allow to open port 8000 in windows-firewall for localhost
@@ -36,7 +33,7 @@ Note on popup alert-message in windows:
 Supported Ollama-Models in OllamaStudio 
 <br>(list is updated in each OllamaStudio-release)
 <br>- available in "supported-models.txt" file
-<br> ** Almost all the LLM models in OllamaStudio list are able to run on 8GB-GPU 
+<br> ** Almost all LLM models in OllamaStudio list are capable to run with 8GB-GPU 
 
 <br><br>
 Screenshorts - Examples
