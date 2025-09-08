@@ -29,6 +29,7 @@ Ollama Models:
 3. Verify suggested models are downloaded in the "supported-models.txt" file
 </pre>
 
+<br><br>
 
 OllamaStudio is writen in pure java and works in Windows, Linux and macOS.
 <br>
