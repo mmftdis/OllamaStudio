@@ -1,5 +1,17 @@
 # Ollama Studio
 Ollama Studio - Research Tool
+
+OllamaStudio:
+1. Enable to test different prompt-engineered with various LLM models
+2. Enable to choose the best suitable performance for a specific prompt among various models
+3. All the results from testing various models are show in one big output pane
+4. The output pane with the results can be save to clean html file
+5. The encoded context for each model and in any turn in the conversation - enable to return to any turn in the chat for any model
+6. Enable to choose whether to memorize each turn (context) and if the output is streamed
+7. Enable to set model parameters as: temperature, and more
+8. Simple UI that works in any browser and almost any desktop
+9. Beside of LLM, enable to test javascript and html syntax and functionality
+
 <br><br>
 
 <pre>
@@ -8,32 +20,29 @@ Requirements:
 2. Install Java (min. JDK8) if not installed: https://openjdk.org/
 
 Run Ollama Studio:
-1. Download and extract latest release tool-zip
-2. Run shell-file (.bat or .sh) according your OS
+1. Download and extract the latest release tool (zip)
+2. Run the shell file (.bat or .sh) according to your OS
 
 Ollama Models:
-1. Check prefered model from the model-list in Ollama Studio (bottom-left drop-down-list)
-2. If model not install then pull it from: https://ollama.com/library
-3. Verify suggested models do download in file: supported-models.txt
+1. Check prefered model from the model list in Ollama Studio (bottom-left drop-down-list)
+2. If the model not installed, pull it from: https://ollama.com/library
+3. Verify suggested models are downloaded in the "supported-models.txt" file
 </pre>
 
-<br><br>
+
 OllamaStudio is writen in pure java and works in Windows, Linux and macOS.
-<br><br>
-
 <br>
-If not loaded automatically in browser, then open: http://localhost:8000/
-<br><br>
-
+If not loaded automatically in the browser, open: http://localhost:8000/
+<br>
 Note on popup alert-message in windows: 
 <br>
-- allow to open port 8000 in windows-firewall for localhost
+- Allow the Windows Firewall to open port 8000 for localhost
 <br><br>
 
 Supported Ollama-Models in OllamaStudio 
 <br>(list is updated in each OllamaStudio-release)
-<br>- available in "supported-models.txt" file
-<br> ** Almost all LLM models in OllamaStudio list are capable to run with 8GB-GPU 
+<br>- available in the "supported-models.txt" file
+<br> ** Almost all LLM models in the OllamaStudio list are capable of running with 8GB-GPU. 
 
 <br><br>
 Screenshorts - Examples
