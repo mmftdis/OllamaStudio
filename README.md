@@ -9,7 +9,7 @@ Requirements:
 
 Run Ollama Studio:
 1. Download and extract latest release tool-zip
-2. Run shell-file (.bat or .sh) according your OS.
+2. Run shell-file (.bat or .sh) according your OS
 
 Ollama Models:
 1. Check prefered model from the model-list in Ollama Studio (bottom-left drop-down-list)
