@@ -1,6 +1,8 @@
 # Ollama Studio
 Ollama Studio - Research Tool
 
+<br>
+
 OllamaStudio:
 1. Enable to test different prompt-engineered with various LLM models
 2. Enable to choose the best suitable performance for a specific prompt among various models
