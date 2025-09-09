@@ -11,6 +11,12 @@ OllamaStudio:
 7. Enable to set model parameters as: temperature, and more
 8. Simple UI that works in any browser and almost any desktop
 9. Beside of LLM, enable to test javascript and html syntax and functionality
+10. Vibe-coding using prompt engineering to json, python, java and more
+11. Enable to extract maximum valuable results from small LLM model (8b and lower)
+12. Enable to perform cost effective prompt engineering
+13. Run and test prompt engineering locally in all-in-one environment and with maximum security - specially suitable for sensitive data as medical, financial data
+14. Enable to explore and document (save) new behaviour results for different LLM models
+15. The tool is highly stable and bug-free and has been used daily since 2023 and is now available to the public community
 
 <br><br>
 
